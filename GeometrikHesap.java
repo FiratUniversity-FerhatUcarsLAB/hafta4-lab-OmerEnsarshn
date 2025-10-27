@@ -4,8 +4,9 @@
  * Tarih: 27.10.2025
  * Aciklama: Gorev 2 - Geometrik Hesap
  * 
- * Bu program kullanicidan ogrenci bilgilerini alir ve
- * duzenli bir formatta ekrana yazdirir.
+ * Bu program kullanıcıdan dairenin yarıçapını alır, sabit π değeriyle daire ve küreye ait alan, çevre,
+ * çap, hacim ve yüzey alanı hesaplamalarını yapar.
+ * Sonuçlar iki ondalık basamakla biçimlendirilmiş şekilde ekrana yazdırılır.
  * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
  */
 import java.util.Scanner;
