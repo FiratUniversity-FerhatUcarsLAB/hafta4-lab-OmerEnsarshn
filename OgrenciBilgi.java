@@ -35,25 +35,8 @@ public class OgrenciBilgi {
         System.out.println("=== OGRENCI BILGI SISTEMI ===");
         System.out.println();
         
-        // Ad
         
-        
-        // Soyad
-        
-        
-        // Ogrenci No
-        
-        
-        // Yas
-        
-        
-        // GPA
-        
-        
-        // Bilgileri ekrana yazdirin
-        System.out.println("\n=== OGRENCI BILGI SISTEMI ===");
-        
-        // COZUMUNUZU BURAYA YAZIN
+         // COZUMUNUZU BURAYA YAZIN
             System.out.printf("Ad Soyad: %s %s%n", ad, soyad);
             System.out.printf("Ogrenci No: %d%n", ogrNo);
             System.out.printf("Yas %d%n", yas);
