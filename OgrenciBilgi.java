@@ -41,6 +41,13 @@ public class OgrenciBilgi {
             System.out.printf("Ogrenci No: %d%n", ogrNo);
             System.out.printf("Yas %d%n", yas);
             System.out.printf("Not Ortalamasi (GPA): %.2f%n", gpa);
+
+            if(gpa >= 2.3){
+                System.out.println("Durum:    Basarili Ogrenci");
+                 }
+                 else{
+                System.out.println("Durum:    Basarisiz Ogrenci");
+                 }
         
             input.close();
 
